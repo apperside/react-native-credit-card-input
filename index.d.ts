@@ -72,6 +72,7 @@ declare module 'react-native-input-credit-card' {
     labelStyle?: object
     inputStyle?: object
     inputContainerStyle?: object
+    scrollViewProps?: object
     validColor?: string
     invalidColor?: string
     placeholderColor?: string
